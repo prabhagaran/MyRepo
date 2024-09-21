@@ -1,5 +1,5 @@
 // Include application, user and local libraries
-#include "SPI.h"
+#include "SPI.h" // header for spi
 #include "TFT_22_ILI9225.h"
 #include <Wire.h>
 #include <Adafruit_INA219.h>
